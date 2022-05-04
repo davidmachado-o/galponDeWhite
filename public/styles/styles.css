@@ -5,6 +5,8 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+/* https://www.w3schools.com/howto/howto_js_topnav_responsive.asp */
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
