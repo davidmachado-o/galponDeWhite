@@ -41,3 +41,14 @@
   .topnav .icon {
     display: none;
   }
+
+.text-about h3{
+  margin-bottom: 1em;
+  line-height: 1.5em;
+}
+
+ .text-about .text-about-content{
+   font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+ }
